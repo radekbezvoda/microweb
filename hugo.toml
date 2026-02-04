@@ -1,0 +1,25 @@
+baseURL = 'https://bezvoda.name/'
+languageCode = 'en-us'
+title = "Radek's Feed"
+theme = 'PaperMod'
+
+[params]
+    defaultTheme = "auto" # switches between dark/light based on OS
+    showFullTextContent = true # This is key for your "Feed" style
+    displayFullContents = true
+    mainSections = ["posts", "micro"]
+
+    [params.homeInfoParams]
+        Title = "Hi there \U0001F44B"
+        Content = "Welcome to my stream of thoughts. Short notes, occasional long reads."
+
+[[menu.main]]
+    name = "Archive"
+    url = "/archives"
+    weight = 10
+[[menu.main]]
+    name = "Search"
+    url = "/search/"
+    weight = 5 # Lower number moves it to the left
+[outputs]
+    home = ["HTML", "RSS", "JSON"]
