@@ -1,5 +1,5 @@
 ---
-title: "Two Years Work Lost"
+title: "Two Years Work Lost For a Researcher"
 date: 2026-02-04T14:36:01+01:00
 draft: false
 tags: ["micro", "AI"]
