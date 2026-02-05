@@ -13,10 +13,7 @@ theme = 'PaperMod'
         Title = "Hi there"
         Content = "Welcome to my stream of thoughts. Short notes, occasional long reads."
 
-[[menu.main]]
-    name = "Archive"
-    url = "/archives"
-    weight = 10
+
 [[menu.main]]
     name = "Search"
     url = "/search/"
