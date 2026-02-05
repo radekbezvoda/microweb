@@ -1,4 +1,4 @@
-baseURL = 'https://bezvoda.name/'
+baseURL = 'https://bezvoda.site/'
 languageCode = 'en-us'
 title = "Radek's Feed"
 theme = 'PaperMod'
