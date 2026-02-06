@@ -9,3 +9,6 @@ Digital independence day is a movement that informs about alternatives to big te
 Sadly, we may need them:
 
 https://di.day/
+
+
+via https://itsfoss.com/news/di-day-celebration/
