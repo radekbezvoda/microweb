@@ -9,6 +9,7 @@ theme = 'PaperMod'
     displayFullContents = true
     mainSections = ["posts", "micro"]
     author = "Radek Bezvoda"
+    showLastMod = true
 
     [params.homeInfoParams]
         Title = "Hi there"
@@ -21,3 +22,7 @@ theme = 'PaperMod'
     weight = 5 # Lower number moves it to the left
 [outputs]
     home = ["HTML", "RSS", "JSON"]
+
+[frontmatter]
+    # This tells Hugo the order of priority for dates
+    lastmod = [":git", "lastmod", ":fileModTime", "publishDate"]
