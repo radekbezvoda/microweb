@@ -8,6 +8,7 @@ theme = 'PaperMod'
     showFullTextContent = true # This is key for your "Feed" style
     displayFullContents = true
     mainSections = ["posts", "micro"]
+    author = "Radek Bezvoda"
 
     [params.homeInfoParams]
         Title = "Hi there"
