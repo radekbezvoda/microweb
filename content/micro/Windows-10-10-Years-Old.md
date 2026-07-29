@@ -5,7 +5,6 @@ draft: false
 tags: ["micro", "windows"]
 showToc: false
 ---
-# Windows 10 10 Years Old
 
 Windows 10 were released [10 years ago](https://en.wikipedia.org/wiki/Windows_10) from today. Time flies.
 
