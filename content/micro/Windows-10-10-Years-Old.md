@@ -8,5 +8,6 @@ showToc: false
 # Windows 10 10 Years Old
 
 Windows 10 were released [10 years ago](https://en.wikipedia.org/wiki/Windows_10) from today. Time flies.
+
 So, the once planned last version of Windows was sunset sooner than Windows 7.
 At least there's [an extension for some](https://www.microsoft.com/en-gb/windows/extended-security-updates). Currently till autumn 2027, but I guess one more year is going to come to match the commercial ESU program. 
