@@ -1,5 +1,5 @@
 ---
-title: "Windows 10 10 Years Old"
+title: "Windows 10 11 Years Old"
 date: 2026-07-29T16:25:43+02:00
 draft: false
 tags: ["micro", "windows"]
